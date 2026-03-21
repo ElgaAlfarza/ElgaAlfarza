@@ -32,20 +32,23 @@ Saya adalah seorang **Web Developer** dan lulusan Ilmu Komputer (S.Kom) yang san
 
 ### 🎮 Hobi & Ketertarikan Lainnya
 
-Selain _coding_ dan meneliti arsitektur CNN, saya menghabiskan waktu luang dengan:
-
-- 🕹️ **Bermain Game:** Menjelajahi dunia virtual (termasuk berburu kode _redeem_).
-- 🏛️ **Pelestarian Budaya:** Mencari cara digitalisasi budaya tradisional melalui teknologi.
+Selain menekuni dunia pemrograman 💻, saya juga aktif menjaga kesehatan dan energi melalui beberapa hobi:
+🏋️‍♂️ Gym – membentuk stamina dan kekuatan tubuh
+🏸 Badminton – melatih kecepatan dan refleks
+🏃‍♂️ Jogging – menyusuri pagi yang segar dan menenangkan pikiran
+🏊‍♂️ Renang – menyegarkan tubuh sekaligus pikiran
 
 ---
 
 ### 📸 Galeri Kegiatan
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x200.png?text=Foto+Aktivitas+1" alt="Aktivitas 1" width="30%" />
-  <img src="https://via.placeholder.com/300x200.png?text=Foto+Aktivitas+2" alt="Aktivitas 2" width="30%" />
-  <img src="https://via.placeholder.com/300x200.png?text=Foto+Setup/Kerja" alt="Setup" width="30%" />
+  <img src="/img/gambar5.jpeg" alt="Muncak" width="30%" />
+  <img src="/img/gambar1.jpeg" alt="Renang 2" width="30%" />
+  <img src="/img/gambar3.jpeg" alt="Joging" width="30%" />
 </div>
+
+---
 
 ---
 
@@ -53,5 +56,7 @@ Selain _coding_ dan meneliti arsitektur CNN, saya menghabiskan waktu luang denga
 
 Jika ingin berdiskusi tentang pengembangan web, _machine learning_, atau sekadar mabar _game_, jangan ragu untuk menyapa!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-linkedin-kamu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email.kamu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elga-alfareza-s-kom-6850a1250)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elga.alfareza.1/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285238208849)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgaalfarezabumigora@gmail.com)
