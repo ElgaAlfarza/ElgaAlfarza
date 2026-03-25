@@ -38,17 +38,7 @@ Selain menekuni dunia pemrograman 💻, saya juga aktif menjaga kesehatan dan en
 🏃‍♂️ Jogging – menyusuri pagi yang segar dan menenangkan pikiran
 🏊‍♂️ Renang – menyegarkan tubuh sekaligus pikiran
 
----
 
-### 📸 Galeri Kegiatan
-
-<div align="center">
-  <img src="../img/gambar5.jpeg" alt="Muncak" width="30%" />
-  <img src="../img/gambar1.jpeg" alt="Renang " width="30%" />
-  <img src="../img/gambar3.jpeg" alt="Joging" width="30%" />
-</div>
-
----
 
 ---
 
