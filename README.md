@@ -11,7 +11,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elga-alfareza&color=00C2FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elga-alfareza-s-kom-6850a1250)
 
 </div>
 
@@ -39,17 +38,18 @@ whoami:
 
 **Bahasa & Markup**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.5));"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.5));"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.5));"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.5));"/>
 
-**Tools, Framework & Konsep**
+**Tools, Framework, Deployment & Konsep**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.5));"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" style="filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.5));"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" style="filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.5));"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.5));"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.5));"/>
 
 </div>
 
@@ -58,15 +58,19 @@ whoami:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elga-alfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elga-alfareza&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elga-alfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elga-alfareza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elga-alfareza&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elga-alfareza&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 </div>
 
-> ⚠️ Ganti `elga-alfareza` di atas dengan username GitHub kamu yang sebenarnya, kalau berbeda.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elga-alfareza&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+</div>
+
+> ⚠️ Ganti `elga-alfareza` di semua URL GitHub Stats/Streak/Activity di atas dengan **username GitHub kamu yang asli**, kalau tidak nanti card-nya kosong/error.
 
 ---
 
@@ -86,10 +90,18 @@ whoami:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elga-alfareza-s-kom-6850a1250)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elga.alfareza.1/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285238208849)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgaalfarezabumigora@gmail.com)
+<a href="https://www.linkedin.com/in/elga-alfareza/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="filter: drop-shadow(3px 3px 5px rgba(0,0,0,0.6));"/>
+</a>
+<a href="https://www.instagram.com/elga.alfareza.1/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" style="filter: drop-shadow(3px 3px 5px rgba(0,0,0,0.6));"/>
+</a>
+<a href="https://wa.me/62085238208849">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="filter: drop-shadow(3px 3px 5px rgba(0,0,0,0.6));"/>
+</a>
+<a href="mailto:elgaalfarezabumigora@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="filter: drop-shadow(3px 3px 5px rgba(0,0,0,0.6));"/>
+</a>
 
 </div>
 
