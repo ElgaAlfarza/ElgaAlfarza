@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=elga-alfareza&color=00C2FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ElgaAlfarza&color=00C2FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -58,19 +58,19 @@ whoami:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elga-alfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elga-alfareza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ElgaAlfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElgaAlfareza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elga-alfareza&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElgaAlfareza&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elga-alfareza&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElgaAlfareza&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </div>
 
-> ⚠️ Ganti `elga-alfareza` di semua URL GitHub Stats/Streak/Activity di atas dengan **username GitHub kamu yang asli**, kalau tidak nanti card-nya kosong/error.
+> ⚠️ Ganti `ElgaAlfareza` di semua URL GitHub Stats/Streak/Activity di atas dengan **username GitHub kamu yang asli**, kalau tidak nanti card-nya kosong/error.
 
 ---
 
@@ -90,7 +90,7 @@ whoami:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/elga-alfareza/">
+<a href="https://www.linkedin.com/in/ElgaAlfareza/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="filter: drop-shadow(3px 3px 5px rgba(0,0,0,0.6));"/>
 </a>
 <a href="https://www.instagram.com/elga.alfareza.1/">
